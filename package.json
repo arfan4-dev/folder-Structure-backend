@@ -1,0 +1,21 @@
+{
+  "name": "backend-folderstructure",
+  "version": "1.0.0",
+  "description": "This is the New Era inside Backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "backend",
+    "chai",
+    "arfan"
+  ],
+  "author": "ARFAN",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.2"
+  }
+}
